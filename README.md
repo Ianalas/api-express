@@ -1,5 +1,3 @@
-# api-express
-
 # API de Operações Matemáticas
 
 Esta é uma API simples construída com Node.js e Express que fornece operações básicas de matemática: soma, subtração, multiplicação e divisão.
