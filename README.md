@@ -19,6 +19,15 @@ Antes de executar o projeto, você precisa ter o Node.js e o npm instalados. Voc
    ```bash
    git clone <URL_DO_REPOSITORIO>
    cd <NOME_DA_PASTA>
+   ```
+
+2. Inciar
+```
+npm i
+npm start
+```
+
+## Resultado
 ![image](https://github.com/user-attachments/assets/696a9c04-7c9e-4b75-84c7-5c86bb682812)
 
 
